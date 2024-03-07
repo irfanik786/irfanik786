@@ -1,3 +1,4 @@
+![logo](https://github.com/irfanik786/irfanik786/blob/main/Screenshot%20(55).png)
 <h1 align="center">Hi 👋, I'm Irfan Khan</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
